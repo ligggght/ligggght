@@ -36,10 +36,10 @@
 <br/>
 
 <a href="https://github.com/imligght" title="light profile">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imligght&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
 
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiocra610@gmail.com)](mailto:caiocra610@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/imligght)
+[![GitHub](https://img.shields.io/github/followers/imligght?label=follow&style=social)](https://github.com/imligght)
