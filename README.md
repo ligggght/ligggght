@@ -41,5 +41,5 @@
 
 ## Onde me encontrar
 
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiocra610@gmail.com)](mailto:caiocra610@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-caiocra610@@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiocra610@gmail.com)](mailto:caiocra610@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/imligght?label=follow&style=social)](https://github.com/imligght)
