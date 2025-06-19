@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=imligght&color=006bed)
+![](https://komarev.com/ghpvc/?username=ligggght&color=006bed)
 
 ## Sobre mim
 
@@ -34,11 +34,11 @@
 
 <br/>
 
-<a href="https://github.com/imligght" title="light profile">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imligght&theme=dracula&show_icons=true" />
+<a href="https://github.com/ligggght" title="light profile">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ligggght&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
 
 [![Gmail Badge](https://img.shields.io/badge/-caiocra610@@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiocra610@gmail.com)](mailto:caiocra610@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/imligght?label=follow&style=social)](https://github.com/imligght)
+[![GitHub](https://img.shields.io/github/followers/ligggght?label=follow&style=social)](https://github.com/ligggght)
