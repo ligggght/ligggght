@@ -9,7 +9,7 @@
 
 ## Minhas Skills
 
-**Aplicações e dados**
+**Linguagens e bibliotecas**
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
